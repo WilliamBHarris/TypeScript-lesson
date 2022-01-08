@@ -4,5 +4,8 @@
   "description": "Starter for typescript demo",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  }
 }
